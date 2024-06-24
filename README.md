@@ -7,10 +7,10 @@ Step-by-step instructions on how to get the development environment running.
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/Muhammad-Jafri/pdf-to-text.git
 
 # Navigate to the project directory
-cd 
+cd pdf-to-text/
 
 # Create the pdf folder and paste the pdf files there
 mkdir pdfs
